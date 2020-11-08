@@ -8,6 +8,6 @@ Windows platform - https://rubyinstaller.org/
 Linux platforms - https://www.ruby-lang.org/en/documentation/installation/
 
 Use application
-- Download magicball.rb
-- from console type ruby magicball.rb
-note: must be in same directiry where magicball.rb is located.
+- Download magic_ball.rb
+- from console type ruby magicball.rb;
+Note: must be in same directiry where magic_ball.rb is located.
