@@ -11,5 +11,5 @@ Ruby must be install on your machine. For details visit
 
 ## Use application:
 - Download ```magic_ball.rb```
-- from console type ```ruby magicball.rb```;
+- From console type ```ruby magicball.rb```;
 Note: must be in same directory, where magic_ball.rb is located.
