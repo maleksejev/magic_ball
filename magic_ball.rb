@@ -1,5 +1,4 @@
 #My app for magic ball
-# Объявили переменную answers и записали в неё массив строк
 answers = [
     # Affirmative
     "It is certain.",
