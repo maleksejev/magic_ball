@@ -1,9 +1,9 @@
 # magic_ball
-##Magic Ball
+## Magic Ball
 
 Application is written using Ruby.
 
-##Instalation:
+## Instalation:
 
 Ruby must be install on your machine. For details visit 
 - Windows platform - https://rubyinstaller.org/
